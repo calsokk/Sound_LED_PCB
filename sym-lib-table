@@ -1,0 +1,8 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "symbolLibrary")(type "KiCad")(uri "/Users/calvinsokk/Documents/EE 256/KiCad_Projects/sound_led_project/feather_M4_express/symbolLibrary.kicad_sym")(options "")(descr ""))
+  (lib (name "sound_led_project-eagle-import")(type "KiCad")(uri "${KIPRJMOD}/sound_led_project-eagle-import.kicad_sym")(options "")(descr ""))
+  (lib (name "sound_detector-eagle-import")(type "KiCad")(uri "/Users/calvinsokk/Documents/EE 256/KiCad_Projects/sound_detector/sound_detector-eagle-import.kicad_sym")(options "")(descr ""))
+  (lib (name "bluetooth-eagle-import")(type "KiCad")(uri "/Users/calvinsokk/Documents/EE 256/KiCad_Projects/sound_led_project/bluetooth/bluetooth-eagle-import.kicad_sym")(options "")(descr ""))
+  (lib (name "Adafruit Bluefruit LE SPI Friend-eagle-import")(type "KiCad")(uri "/Users/calvinsokk/Documents/EE 256/KiCad_Projects/sound_led_project/bluetooth/Adafruit Bluefruit LE SPI Friend-eagle-import.kicad_sym")(options "")(descr ""))
+)
